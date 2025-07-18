@@ -86,7 +86,7 @@ Through this project, I learned how to:
 - Optimize basic image processing tasks using GPU acceleration,
 - Handle batch file processing in CUDA-friendly ways without advanced libraries.
 
-This project went beyond a basic “Hello World” by applying CUDA concepts on **multiple real-world images** with practical performance improvements.
+
 
 ---
 
