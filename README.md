@@ -70,7 +70,7 @@ I ran this project on **WSL Ubuntu with CUDA support** and successfully applied 
 
 ### 📷 Example Output Comparison:
 
-| Original Image | After Gaussian Blur |
+| LEFT ORIGINAL/RIGHT BLURRED | LEFT ORIGINAL/RIGHT BLURRED |
 |----------------|---------------------|
 | ![Original](Proof%20of%20work2.png) | ![Blurred](Proof%20of%20work3.png) |
 
