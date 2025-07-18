@@ -72,7 +72,7 @@ I ran this project on **WSL Ubuntu with CUDA support** and successfully applied 
 
 | Original Image | After Gaussian Blur |
 |----------------|---------------------|
-| ![Original](Proof%20of%20work%202.png) | ![Blurred](Proof%20of%20work%203.png) |
+| ![Original](Proof%20of%20work2.png) | ![Blurred](Proof%20of%20work3.png) |
 
 ✅ This table shows the effect of the Gaussian blur algorithm applied on a sample image.
 
