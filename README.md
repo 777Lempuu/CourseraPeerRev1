@@ -2,7 +2,7 @@
 
 ## About This Project
 
-Hi, I’m Lempuu and this is my submission for the CUDA at Scale course project. I worked on an **image processing project** where I applied **Gaussian blur** to a batch of images using CUDA. The goal of this assignment was to process either large images or a large number of images efficiently using GPU acceleration. I specifically chose to work with images from the **SIPI Textures Dataset**.
+Hi, I’m Ben Jamir and this is my submission for the CUDA at Scale course project. I worked on an **image processing project** where I applied **Gaussian blur** to a batch of images using CUDA. The goal of this assignment was to process either large images or a large number of images efficiently using GPU acceleration. I specifically chose to work with images from the **SIPI Textures Dataset**.
 
 This project involves a complete CUDA-based pipeline using **OpenCV for image I/O**, **CUDA custom kernels** for applying Gaussian blur, and proper directory handling to process **multiple images** in a single execution.
 
